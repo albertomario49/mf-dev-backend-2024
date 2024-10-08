@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>mf_dev_backend_2024</RootNamespace>
     <UserSecretsId>ce60ffd0-b04a-459b-92b2-78cbb54d2193</UserSecretsId>
